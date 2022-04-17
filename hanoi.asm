@@ -1,11 +1,5 @@
-# TODO: modify the info below
-# Student ID: 260843185
-# Name: Your Suheng Qian
-# TODO END
-########### COMP 273, Winter 2022, Assignment 4, Question 1 - Tower of Hanoi ###########
 
 .data
-# TODO: add any variables here you if you need
 input:.asciiz "Enter the number of the disks you want to use: "
 print_step: .asciiz "\nStep "
 print_move: .asciiz ":move disk "
